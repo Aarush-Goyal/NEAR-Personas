@@ -13,6 +13,6 @@
     "near-sdk-as": "2.2.4"
   },
   "devDependencies": {
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   }
 }
